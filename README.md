@@ -1,1 +1,6 @@
 # final-project
+https://github.com/Lilasmk/final-project.git 
+>What inspired me for this project is my workplace, as I work in a body care shop, I decided to make it linked to the different skin tones, which lead me to taking multiple hand images. But the more I started look at the images the more it reminded me of an Islamic saying, that says hand are like trees and the veins are like the branches that grow.
+As I struggle reflecting my original idea, I rather turned it in to how hands are the branches, and how humankind is linked to nature.  “The limbs are branches fed by the heart; whatever is in the heart shows in the actions”, this quote was my main inspiration. The way I communicated it is through all those images, the background being a video that took back in Lebanon where there are trees and it’s like a forest, it represents our society different forms and shapes, where when you click on it you see 4 hands images with different skin colour united in one. Whereas the flicking images, on one side you have 4 different hands, and on the other side you have 4 different branches that look like hands. This also portray how us as humans we resemble nature and trees.
+For my coding and animation inspiration, I used p5.js 
+https://p5js.org/tutorials/animating-with-media-objects/
